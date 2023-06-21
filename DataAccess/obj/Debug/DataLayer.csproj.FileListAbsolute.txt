@@ -1,0 +1,6 @@
+C:\Users\casti\source\repos\WebAPIPersonasNET462\DataAccess\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\casti\source\repos\WebAPIPersonasNET462\DataAccess\bin\Debug\DataLayer.dll
+C:\Users\casti\source\repos\WebAPIPersonasNET462\DataAccess\bin\Debug\DataLayer.pdb
+C:\Users\casti\source\repos\WebAPIPersonasNET462\DataAccess\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\casti\source\repos\WebAPIPersonasNET462\DataAccess\obj\Debug\DataLayer.dll
+C:\Users\casti\source\repos\WebAPIPersonasNET462\DataAccess\obj\Debug\DataLayer.pdb

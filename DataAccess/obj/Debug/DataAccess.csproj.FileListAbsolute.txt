@@ -1,0 +1,5 @@
+C:\Users\casti\source\repos\WebAPIPersonasNET462\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\casti\source\repos\WebAPIPersonasNET462\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\casti\source\repos\WebAPIPersonasNET462\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\casti\source\repos\WebAPIPersonasNET462\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\casti\source\repos\WebAPIPersonasNET462\DataAccess\obj\Debug\DataAccess.pdb
