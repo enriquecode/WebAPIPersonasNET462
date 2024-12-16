@@ -20,7 +20,6 @@ namespace DataLayer
                 Conectar();
                 ds = SQLHelper.ExecuteDataSet(Conexion, "sp_ObtenPersonas", CommandType.StoredProcedure, null);
 
-
                 return ds.Tables[0];
             }
 
